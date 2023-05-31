@@ -1,5 +1,7 @@
-# Zen.watch API Client Examples
+# Zen.watch Event API 
 Examples to invoke Zen.Watch APIs
+
+This is a deprecated version of the Event SDK, a newer version is in the works. Please check the projects / open issues to learn more about the new events sdk.
 
 ## Curl
 Execute the following curl from your command line, replacing the example-api-key your api key.
