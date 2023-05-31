@@ -1,5 +1,5 @@
 # Zen.watch Event API 
-Examples to invoke Zen.Watch APIs
+Examples to invoke Zen.Watch Events APIs
 
 **Note:** This is a deprecated version of the Event SDK, a newer version is in the works. Please check the projects / open issues to learn more about the new events sdk.
 
